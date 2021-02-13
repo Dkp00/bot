@@ -29,7 +29,7 @@ async def main():
 	print(Fore.MAGENTA + '\ \    / / __| |  / __/ _ \|  \/  | __|')
 	print(Fore.MAGENTA + ' \ \/\/ /| _|| |_| (_| (_) | |\/| | _| ')
 	print(Fore.MAGENTA + '  \_/\_/ |___|____\___\___/|_|  |_|___|\n' + Fore.RESET)
-	print(Fore.GREEN + '    -   BY THUNDER SOUL   -   \n' + Fore.RESET)
+	print(Fore.GREEN + '    -   BY Jim HSN   -   \n' + Fore.RESET)
                                 
 	# Check if phone number is not specified
 	if len(sys.argv) < 2:
