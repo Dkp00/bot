@@ -48,8 +48,8 @@ async def main():
 	await client.start(phone_number)
 	me = await client.get_me()
 	
-	print(f'Current account: {me.first_name}({me.username})\n')
-	print(f'Successfully created session file for: {phone_number} | directory: /session/{phone_number}.session')
+	print(f'Current account:__________________||_________________)\n')
+	print(f'Successfully created session file ')
 	print(f'______________________________________________________________________')
 	#print (f'Press Ctrl + Z for exit | Enter')
 	# val = input("You want to add number in list.txt? yes/no: ")
